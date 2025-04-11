@@ -49,6 +49,73 @@ execute:
 
 <img src='imgs/lab-wild.png' width=550px height=500px/>
 
+:::
+
+::: {.column width='50%'}
+
+![](imgs/panama-project.png)<br>
+
+
+
+:::
+
+::::
+
+
+## [PhD times]{style="font-family:Comic Sans MS;font-weight:normal;"} {background='imgs/'}
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+<img src='imgs/lab-wild.png' width=550px height=500px/>
+
+:::
+
+::: {.column width='50%'}
+
+![](imgs/panama-project.png)<br>
+![](imgs/honesty.png)
+
+
+:::
+
+::::
+
+
+## [PhD times]{style="font-family:Comic Sans MS;font-weight:normal;"} {background='imgs/'}
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+<img src='imgs/lab-wild.png' width=550px height=500px/>
+
+:::
+
+::: {.column width='50%'}
+
+![](imgs/coloration-crayfish.png)<br><br>
+![](imgs/science-featured.png)
+
+
+:::
+
+::::
+
+
+
+
+
+
+## [PhD times]{style="font-family:Comic Sans MS;font-weight:normal;"} {background='imgs/'}
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+<img src='imgs/lab-wild.png' width=550px height=500px/>
+
 
 :::
 
