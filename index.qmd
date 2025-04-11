@@ -1075,9 +1075,9 @@ Assessing which foraging strategy yields the highest surplus energy in a given e
 :::: {.columns}
 
 ::: {.column width='50%'}
-
+<br><br>
 <center>
-<img src = 'imgs/hutchinson.png' width=400px height=600px/>
+<img src = 'imgs/yibs.jpg' width=400px height=500px/>
 </center>
 
 :::
